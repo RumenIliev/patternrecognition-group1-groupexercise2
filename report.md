@@ -16,13 +16,13 @@ Data root: data
 > Average Precision (AP) for this query: 0.7648  
 
 #### Top-10 matches:  
- ✓ 279-01-02$~~~~$label = O-r-d-e-r-s$~~~~$dist =$~~~$9.47  
- ✓ 270-01-03$~~~~$label = O-r-d-e-r-s$~~~~$dist = 10.05  
- ✓ 275-01-02$~~~~$label = O-r-d-e-r-s$~~~~$dist = 10.36  
- ✓ 277-02-02$~~~~$label = O-r-d-e-r-s$~~~~$dist = 11.38  
- ✓ 278-01-03$~~~~$label = O-r-d-e-r-s$~~~~$dist = 11.82  
- ✓ 271-02-02$~~~~$label = O-r-d-e-r-s$~~~~$dist = 11.88  
- ✓ 272-02-03$~~~~$label = O-r-d-e-r-s$~~~~$dist = 12.02  
- ✓ 276-02-03$~~~~$label = O-r-d-e-r-s$~~~~$dist = 12.09  
- $~~~~$271-18-06$~~~~$label = w-h-e-r-e$~~~~~~$dist = 12.41  
- ✓ 273-01-02$~~~~$label = O-r-d-e-r-s$~~~~$dist = 12.72  
+ ✓ 279-01-02 &nbsp; &nbsp;label = O-r-d-e-r-s &nbsp; &nbsp;dist = &nbsp;&nbsp;9.47  
+ ✓ 270-01-03 &nbsp; &nbsp;label = O-r-d-e-r-s &nbsp; &nbsp;dist = 10.05  
+ ✓ 275-01-02 &nbsp; &nbsp;label = O-r-d-e-r-s &nbsp; &nbsp;dist = 10.36  
+ ✓ 277-02-02 &nbsp; &nbsp;label = O-r-d-e-r-s &nbsp; &nbsp;dist = 11.38  
+ ✓ 278-01-03 &nbsp; &nbsp;label = O-r-d-e-r-s &nbsp; &nbsp;dist = 11.82  
+ ✓ 271-02-02 &nbsp; &nbsp;label = O-r-d-e-r-s &nbsp; &nbsp;dist = 11.88  
+ ✓ 272-02-03 &nbsp; &nbsp;label = O-r-d-e-r-s &nbsp; &nbsp;dist = 12.02  
+ ✓ 276-02-03 &nbsp; &nbsp;label = O-r-d-e-r-s &nbsp; &nbsp;dist = 12.09  
+  &nbsp; &nbsp; 271-18-06 &nbsp; &nbsp;label = w-h-e-r-e &nbsp; &nbsp; &nbsp;dist = 12.41  
+ ✓ 273-01-02 &nbsp; &nbsp;label = O-r-d-e-r-s &nbsp; &nbsp;dist = 12.72  
